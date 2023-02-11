@@ -8,5 +8,7 @@ BSc. Information Technology       Methodist University Ghana    2020
 
 I'm currently a Master's Student of Information Security, looking to develop my skills in Information Security by collaborating as much as possible.
 
+I am also interested in Data Analysis. I love to play with Data.
+
 
 
