@@ -5,7 +5,7 @@
 - <b>Derbyshire Crime Analysis</b>
   - [Practicing Data Exploration & Interogation in R](https://github.com/OjeJP/DerbyshireCrime)
 
-  <!--
+<!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
